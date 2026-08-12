@@ -12,7 +12,7 @@ figures belong to my employer and can't be published, so I built a fabricated
 dataset designed to reproduce the shape and outcome of a real initiative I led 
 at Waitrose — actively placing bulk seasonal stock (Christmas crackers) near 
 store entry points and on end-cap displays, instead of leaving it to the 
-default planogram. 
+default planogram. See dictionary for how the simulation was created.
 
 # Findings:
 - The Active Placement approach reaches ~93% cumulative sell-through by the 
