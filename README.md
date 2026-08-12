@@ -4,7 +4,7 @@ than leaving it to the standard planogram — reduce warehouse backlog and
 improve sell-through before clearance markdown?
 
 # Analysis
-[📊 Tableau](your-dashboard-link-here)
+[📊 Tableau](https://public.tableau.com/app/profile/nicholas.robson/viz/SimulatedChristmasStock/Dashboard1?publish=yes)
 
 # Datasets
 This project uses a simulated dataset, not real company data. The underlying 
@@ -13,9 +13,6 @@ dataset designed to reproduce the shape and outcome of a real initiative I led
 at Waitrose — actively placing bulk seasonal stock (Christmas crackers) near 
 store entry points and on end-cap displays, instead of leaving it to the 
 default planogram. 
-
-See the data dictionary for exactly how the simulation was constructed and how 
-it maps to the real result.
 
 # Findings:
 - The Active Placement approach reaches ~93% cumulative sell-through by the 
