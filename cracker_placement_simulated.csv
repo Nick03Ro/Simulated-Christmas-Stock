@@ -1,0 +1,33 @@
+Week,Week_Start_Date,Approach,Delivery_Units,Warehouse_Stock,Entry_Display_Stock,Total_On_Hand,Units_Sold_This_Week,Cumulative_Units_Sold,Cumulative_SellThrough_Pct
+1,01/09/2025,"Baseline (Standard Planogram, No Active Placement)",3000,2679,211,2890,110,110,1.8
+2,08/09/2025,"Baseline (Standard Planogram, No Active Placement)",0,2503,271,2774,117,226,3.8
+3,15/09/2025,"Baseline (Standard Planogram, No Active Placement)",0,2327,308,2635,139,365,6.1
+4,22/09/2025,"Baseline (Standard Planogram, No Active Placement)",0,2140,338,2478,157,522,8.7
+5,29/09/2025,"Baseline (Standard Planogram, No Active Placement)",2000,3515,678,4193,284,807,13.4
+6,06/10/2025,"Baseline (Standard Planogram, No Active Placement)",0,3179,700,3879,315,1121,18.7
+7,13/10/2025,"Baseline (Standard Planogram, No Active Placement)",0,2835,720,3555,323,1445,24.1
+8,20/10/2025,"Baseline (Standard Planogram, No Active Placement)",0,2503,760,3263,292,1737,28.9
+9,27/10/2025,"Baseline (Standard Planogram, No Active Placement)",1000,2886,924,3810,453,2190,36.5
+10,03/11/2025,"Baseline (Standard Planogram, No Active Placement)",0,2477,905,3382,428,2618,43.6
+11,10/11/2025,"Baseline (Standard Planogram, No Active Placement)",0,2107,895,3002,380,2998,50
+12,17/11/2025,"Baseline (Standard Planogram, No Active Placement)",0,1789,841,2630,372,3370,56.2
+13,24/11/2025,"Baseline (Standard Planogram, No Active Placement)",0,1496,771,2268,362,3732,62.2
+14,01/12/2025,"Baseline (Standard Planogram, No Active Placement)",0,1270,693,1963,304,4037,67.3
+15,08/12/2025,"Baseline (Standard Planogram, No Active Placement)",0,1099,600,1699,264,4301,71.7
+16,15/12/2025,"Baseline (Standard Planogram, No Active Placement)",0,952,536,1488,212,4512,75.2
+1,01/09/2025,New (Active Placement Strategy),3000,1875,776,2651,349,349,5.8
+2,08/09/2025,New (Active Placement Strategy),0,1511,795,2307,345,693,11.6
+3,15/09/2025,New (Active Placement Strategy),0,1188,778,1966,341,1034,17.2
+4,22/09/2025,New (Active Placement Strategy),0,904,772,1676,289,1324,22.1
+5,29/09/2025,New (Active Placement Strategy),2000,1489,1466,2955,721,2045,34.1
+6,06/10/2025,New (Active Placement Strategy),0,1034,1339,2374,582,2626,43.8
+7,13/10/2025,New (Active Placement Strategy),0,760,1141,1901,473,3099,51.7
+8,20/10/2025,New (Active Placement Strategy),0,608,857,1466,435,3534,58.9
+9,27/10/2025,New (Active Placement Strategy),1000,789,1175,1964,502,4036,67.3
+10,03/11/2025,New (Active Placement Strategy),0,628,970,1598,366,4402,73.4
+11,10/11/2025,New (Active Placement Strategy),0,511,769,1280,318,4720,78.7
+12,17/11/2025,New (Active Placement Strategy),0,410,645,1055,225,4945,82.4
+13,24/11/2025,New (Active Placement Strategy),0,338,489,826,229,5174,86.2
+14,01/12/2025,New (Active Placement Strategy),0,264,397,662,164,5338,89
+15,08/12/2025,New (Active Placement Strategy),0,212,321,533,129,5467,91.1
+16,15/12/2025,New (Active Placement Strategy),0,170,247,417,116,5583,93
